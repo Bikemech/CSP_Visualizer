@@ -1,0 +1,86 @@
+Current state:
+depth: 0	Elements to assign: 6
+[NSW	['R', 'G', 'B']	, WA	['R', 'G', 'B']	, NT	['R', 'G', 'B']	, V	['R', 'G', 'B']	, Q	['R', 'G', 'B']	, SA	['R', 'G', 'B']	]
+Assigned NSW	['R']	
+
+Current state:
+depth: 1	Elements to assign: 5
+[WA	['R', 'G', 'B']	, NT	['R', 'G', 'B']	, V	['G', 'B']	, Q	['G', 'B']	, SA	['G', 'B']	]
+Assigned WA	['R']	
+
+Current state:
+depth: 2	Elements to assign: 4
+[NT	['G', 'B']	, V	['G', 'B']	, Q	['G', 'B']	, SA	['G', 'B']	]
+Assigned NT	['G']	
+
+Current state:
+depth: 3	Elements to assign: 3
+[V	['G', 'B']	, Q	['B']	, SA	['B']	]
+Assigned V	['G']	
+
+Current state:
+depth: 4	Elements to assign: 2
+[Q	['B']	, SA	['B']	]
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+Assigned NT	['B']	
+
+Current state:
+depth: 3	Elements to assign: 3
+[V	['G', 'B']	, Q	['G']	, SA	['G']	]
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+Assigned V	['B']	
+
+Current state:
+depth: 4	Elements to assign: 2
+[Q	['G']	, SA	['G']	]
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+Assigned WA	['G']	
+
+Current state:
+depth: 2	Elements to assign: 4
+[NT	['R', 'B']	, V	['G', 'B']	, Q	['G', 'B']	, SA	['B']	]
+Assigned NT	['R']	
+
+Current state:
+depth: 3	Elements to assign: 3
+[V	['G', 'B']	, Q	['G', 'B']	, SA	['B']	]
+Assigned V	['G']	
+
+Current state:
+depth: 4	Elements to assign: 2
+[Q	['G', 'B']	, SA	['B']	]
+Assigned Q	['G']	
+
+Current state:
+depth: 5	Elements to assign: 1
+[SA	['B']	]
+R
+NSW  NT  
+G
+WA  V  Q  
+B
+SA  

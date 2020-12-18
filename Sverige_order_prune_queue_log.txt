@@ -1,0 +1,1910 @@
+Current state:
+depth: 0	Elements to assign: 23
+[Lappland	['R', 'G', 'B']	, Norrbotten	['R', 'G', 'B']	, Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Lappland	['R']	
+
+Current state:
+depth: 1	Elements to assign: 22
+[Norrbotten	['R', 'G', 'B']	, Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+Assigned Norrbotten	['G']	
+
+Current state:
+depth: 2	Elements to assign: 21
+[Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+Assigned Vasterbotten	['B']	
+
+Current state:
+depth: 3	Elements to assign: 20
+[Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+Assigned Angermanland	['G']	
+
+Current state:
+depth: 4	Elements to assign: 19
+[Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+Assigned Jamtland	['B']	
+
+Current state:
+depth: 5	Elements to assign: 18
+[Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Medelpad	['R']	
+
+Current state:
+depth: 6	Elements to assign: 17
+[Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+Assigned Harjedalen	['G']	
+
+Current state:
+depth: 7	Elements to assign: 16
+[Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+Assigned Halsingland	['B']	
+
+Current state:
+depth: 8	Elements to assign: 15
+[Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Dalarna	['R']	
+
+Current state:
+depth: 9	Elements to assign: 14
+[Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+Assigned Gastrikland	['G']	
+
+Current state:
+depth: 10	Elements to assign: 13
+[Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+Assigned Vastmanland	['B']	
+
+Current state:
+depth: 11	Elements to assign: 12
+[Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+Assigned Varmland	['G']	
+
+Current state:
+depth: 12	Elements to assign: 11
+[Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Dalsland	['R']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['B']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Narke	['R']	
+
+Current state:
+depth: 16	Elements to assign: 7
+[Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+Assigned Sodermanland	['G']	
+
+Current state:
+depth: 17	Elements to assign: 6
+[Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Uppland	['R']	
+
+Current state:
+depth: 18	Elements to assign: 5
+[Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['B']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vastergotland	['R']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+Assigned Norrbotten	['B']	
+
+Current state:
+depth: 2	Elements to assign: 21
+[Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+Assigned Vasterbotten	['G']	
+
+Current state:
+depth: 3	Elements to assign: 20
+[Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+Assigned Angermanland	['B']	
+
+Current state:
+depth: 4	Elements to assign: 19
+[Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+Assigned Jamtland	['G']	
+
+Current state:
+depth: 5	Elements to assign: 18
+[Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Medelpad	['R']	
+
+Current state:
+depth: 6	Elements to assign: 17
+[Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+Assigned Harjedalen	['B']	
+
+Current state:
+depth: 7	Elements to assign: 16
+[Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+Assigned Halsingland	['G']	
+
+Current state:
+depth: 8	Elements to assign: 15
+[Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Dalarna	['R']	
+
+Current state:
+depth: 9	Elements to assign: 14
+[Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+Assigned Gastrikland	['B']	
+
+Current state:
+depth: 10	Elements to assign: 13
+[Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+Assigned Vastmanland	['G']	
+
+Current state:
+depth: 11	Elements to assign: 12
+[Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+Assigned Varmland	['B']	
+
+Current state:
+depth: 12	Elements to assign: 11
+[Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Dalsland	['R']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['G']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Narke	['R']	
+
+Current state:
+depth: 16	Elements to assign: 7
+[Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+Assigned Sodermanland	['B']	
+
+Current state:
+depth: 17	Elements to assign: 6
+[Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Uppland	['R']	
+
+Current state:
+depth: 18	Elements to assign: 5
+[Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['G']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vastergotland	['R']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+
+	### BACKTRACKING TO DEPTH: 0 ###
+
+Assigned Lappland	['G']	
+
+Current state:
+depth: 1	Elements to assign: 22
+[Norrbotten	['R', 'G', 'B']	, Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Norrbotten	['R']	
+
+Current state:
+depth: 2	Elements to assign: 21
+[Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+Assigned Vasterbotten	['B']	
+
+Current state:
+depth: 3	Elements to assign: 20
+[Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Angermanland	['R']	
+
+Current state:
+depth: 4	Elements to assign: 19
+[Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+Assigned Jamtland	['B']	
+
+Current state:
+depth: 5	Elements to assign: 18
+[Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+Assigned Medelpad	['G']	
+
+Current state:
+depth: 6	Elements to assign: 17
+[Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Harjedalen	['R']	
+
+Current state:
+depth: 7	Elements to assign: 16
+[Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+Assigned Halsingland	['B']	
+
+Current state:
+depth: 8	Elements to assign: 15
+[Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+Assigned Dalarna	['G']	
+
+Current state:
+depth: 9	Elements to assign: 14
+[Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Gastrikland	['R']	
+
+Current state:
+depth: 10	Elements to assign: 13
+[Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+Assigned Vastmanland	['B']	
+
+Current state:
+depth: 11	Elements to assign: 12
+[Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Varmland	['R']	
+
+Current state:
+depth: 12	Elements to assign: 11
+[Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['G']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['B']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+Assigned Narke	['G']	
+
+Current state:
+depth: 16	Elements to assign: 7
+[Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Sodermanland	['R']	
+
+Current state:
+depth: 17	Elements to assign: 6
+[Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+Assigned Uppland	['G']	
+
+Current state:
+depth: 18	Elements to assign: 5
+[Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['B']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['G']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+Assigned Norrbotten	['B']	
+
+Current state:
+depth: 2	Elements to assign: 21
+[Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vasterbotten	['R']	
+
+Current state:
+depth: 3	Elements to assign: 20
+[Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+Assigned Angermanland	['B']	
+
+Current state:
+depth: 4	Elements to assign: 19
+[Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Jamtland	['R']	
+
+Current state:
+depth: 5	Elements to assign: 18
+[Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+Assigned Medelpad	['G']	
+
+Current state:
+depth: 6	Elements to assign: 17
+[Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+Assigned Harjedalen	['B']	
+
+Current state:
+depth: 7	Elements to assign: 16
+[Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Halsingland	['R']	
+
+Current state:
+depth: 8	Elements to assign: 15
+[Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+Assigned Dalarna	['G']	
+
+Current state:
+depth: 9	Elements to assign: 14
+[Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+Assigned Gastrikland	['B']	
+
+Current state:
+depth: 10	Elements to assign: 13
+[Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vastmanland	['R']	
+
+Current state:
+depth: 11	Elements to assign: 12
+[Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+Assigned Varmland	['B']	
+
+Current state:
+depth: 12	Elements to assign: 11
+[Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Dalsland	['R']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['G']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['G']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vastergotland	['R']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+Assigned Narke	['G']	
+
+Current state:
+depth: 16	Elements to assign: 7
+[Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+Assigned Sodermanland	['B']	
+
+Current state:
+depth: 17	Elements to assign: 6
+[Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+Assigned Uppland	['G']	
+
+Current state:
+depth: 18	Elements to assign: 5
+[Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+
+	### BACKTRACKING TO DEPTH: 0 ###
+
+Assigned Lappland	['B']	
+
+Current state:
+depth: 1	Elements to assign: 22
+[Norrbotten	['R', 'G', 'B']	, Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Norrbotten	['R']	
+
+Current state:
+depth: 2	Elements to assign: 21
+[Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+Assigned Vasterbotten	['G']	
+
+Current state:
+depth: 3	Elements to assign: 20
+[Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Angermanland	['R']	
+
+Current state:
+depth: 4	Elements to assign: 19
+[Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+Assigned Jamtland	['G']	
+
+Current state:
+depth: 5	Elements to assign: 18
+[Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+Assigned Medelpad	['B']	
+
+Current state:
+depth: 6	Elements to assign: 17
+[Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Harjedalen	['R']	
+
+Current state:
+depth: 7	Elements to assign: 16
+[Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+Assigned Halsingland	['G']	
+
+Current state:
+depth: 8	Elements to assign: 15
+[Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+Assigned Dalarna	['B']	
+
+Current state:
+depth: 9	Elements to assign: 14
+[Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Gastrikland	['R']	
+
+Current state:
+depth: 10	Elements to assign: 13
+[Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+Assigned Vastmanland	['G']	
+
+Current state:
+depth: 11	Elements to assign: 12
+[Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Varmland	['R']	
+
+Current state:
+depth: 12	Elements to assign: 11
+[Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['G']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['B']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['B']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['G']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+Assigned Narke	['B']	
+
+Current state:
+depth: 16	Elements to assign: 7
+[Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Sodermanland	['R']	
+
+Current state:
+depth: 17	Elements to assign: 6
+[Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+Assigned Uppland	['B']	
+
+Current state:
+depth: 18	Elements to assign: 5
+[Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+Assigned Norrbotten	['G']	
+
+Current state:
+depth: 2	Elements to assign: 21
+[Vasterbotten	['R', 'G', 'B']	, Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vasterbotten	['R']	
+
+Current state:
+depth: 3	Elements to assign: 20
+[Angermanland	['R', 'G', 'B']	, Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+Assigned Angermanland	['G']	
+
+Current state:
+depth: 4	Elements to assign: 19
+[Jamtland	['R', 'G', 'B']	, Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Jamtland	['R']	
+
+Current state:
+depth: 5	Elements to assign: 18
+[Medelpad	['R', 'G', 'B']	, Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+Assigned Medelpad	['B']	
+
+Current state:
+depth: 6	Elements to assign: 17
+[Harjedalen	['R', 'G', 'B']	, Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+Assigned Harjedalen	['G']	
+
+Current state:
+depth: 7	Elements to assign: 16
+[Halsingland	['R', 'G', 'B']	, Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Halsingland	['R']	
+
+Current state:
+depth: 8	Elements to assign: 15
+[Dalarna	['R', 'G', 'B']	, Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+Assigned Dalarna	['B']	
+
+Current state:
+depth: 9	Elements to assign: 14
+[Gastrikland	['R', 'G', 'B']	, Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+Assigned Gastrikland	['G']	
+
+Current state:
+depth: 10	Elements to assign: 13
+[Vastmanland	['R', 'G', 'B']	, Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vastmanland	['R']	
+
+Current state:
+depth: 11	Elements to assign: 12
+[Varmland	['R', 'G', 'B']	, Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+Assigned Varmland	['G']	
+
+Current state:
+depth: 12	Elements to assign: 11
+[Dalsland	['R', 'G', 'B']	, Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Dalsland	['R']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+Assigned Vastergotland	['B']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['B']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+Assigned Dalsland	['B']	
+
+Current state:
+depth: 13	Elements to assign: 10
+[Bohuslan	['R', 'G', 'B']	, Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Bohuslan	['R']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+Assigned Bohuslan	['G']	
+
+Current state:
+depth: 14	Elements to assign: 9
+[Vastergotland	['R', 'G', 'B']	, Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+Assigned Vastergotland	['R']	
+
+Current state:
+depth: 15	Elements to assign: 8
+[Narke	['R', 'G', 'B']	, Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+Assigned Narke	['B']	
+
+Current state:
+depth: 16	Elements to assign: 7
+[Sodermanland	['R', 'G', 'B']	, Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+Assigned Sodermanland	['G']	
+
+Current state:
+depth: 17	Elements to assign: 6
+[Uppland	['R', 'G', 'B']	, Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+Assigned Uppland	['B']	
+
+Current state:
+depth: 18	Elements to assign: 5
+[Ostergotland	['R', 'G', 'B']	, Smaland	['R', 'G', 'B']	, Halland	['R', 'G', 'B']	, Skane	['R', 'G', 'B']	, Blekinge	['R', 'G', 'B']	]
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 18 ###
+
+
+	### BACKTRACKING TO DEPTH: 17 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 16 ###
+
+
+	### BACKTRACKING TO DEPTH: 15 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 14 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 13 ###
+
+
+	### BACKTRACKING TO DEPTH: 12 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 11 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 10 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 9 ###
+
+
+	### BACKTRACKING TO DEPTH: 8 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 7 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 6 ###
+
+
+	### BACKTRACKING TO DEPTH: 5 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 4 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 3 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 2 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+
+	### BACKTRACKING TO DEPTH: 1 ###
+
+
+	### BACKTRACKING TO DEPTH: 0 ###
+
+
+R
+
+G
+
+B
+
+

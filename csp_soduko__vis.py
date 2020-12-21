@@ -1,6 +1,6 @@
 from CSPtest_vis import *
 import re
-from tkinter import Tk, Canvas
+from tkinter import Tk, Canvas, Scale
 from time import sleep
 from random import shuffle
 
@@ -58,6 +58,27 @@ class sudoku_screen(Canvas):
     def wait(self):
         if self.stall:
             sleep(self.stall)
+
+    def complete(self):
+        return
+        self.slider = Scale(self.handle, from_=0, to=len(self.solutionstep) - 1, orient = 'horizontal', length = 700)
+        self.slider.pack()
+        self.state = self.slider.get()
+        self.stall = None
+
+    def save_state(self, tree):
+        return
+        self.solutionstep.append(deep_copy(tree))
+
+    def fetch_state(self):
+        return
+        while self.slider.get() < self.state:
+            self.state -= 1
+            self.render(self.solutionstep[self.state])
+
+        while self.slider.get() > self.state:
+            self.state += 1
+            self.render(self.solutionstep[self.state])
 
 
 def create_domain_matrix(single_row = False):
@@ -194,9 +215,10 @@ for i in range(1, 10):
 
 sleep(2)
 
-solve(tree, log=log, queue=None, prune=False, counter=counter, v=disp)
-# solve(tree, log=log, queue=smallest_first, prune=True, counter=counter, v=disp)
+# solve(tree, log=log, queue=None, prune=False, counter=counter, v=None)
+solve(tree, log=log, queue=smallest_first, prune=True, counter=counter, v=disp)
 # solve(tree, log=log, queue=neighbors_first, prune=False, counter=counter, v = None)
+
 
 
 for d in domain:
@@ -241,4 +263,8 @@ print(counter)
 sleep(2)
 
 disp.render(tree)
-disp.mainloop()
+disp.complete()
+while True:
+    # disp.mainloop()
+    disp.update()
+    disp.fetch_state()

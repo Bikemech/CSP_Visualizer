@@ -110,7 +110,7 @@ for reg in regions:
     for n in s:
         states[r.group(0)].add_neighbor(states[n])
 
-domain = list('RGB')
+domain = list('RGBY')
 states['Lappland'].domain_propagation(domain.copy())
 
 tree = make_tree(states['Lappland'])
